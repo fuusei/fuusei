@@ -1,5 +1,5 @@
-### I am a software engineer based in South Florida
-### Actively looking for opportunities
+#### Software engineer based in South Florida
+### Actively looking for new opportunities
 
 <!--
 **fuusei/fuusei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
