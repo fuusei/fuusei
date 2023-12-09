@@ -17,4 +17,4 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=green)
+  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=green&color=blue)
